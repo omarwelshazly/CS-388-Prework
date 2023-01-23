@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pre Work</string>
+    <string name="button_txt">Click me !</string>
+    <string name="home_text">This is my first android application!</string>
+</resources>
